@@ -1,0 +1,29 @@
+img {
+    height: 500px;
+    width: auto;
+}
+div {
+    color: white;
+    background-color: black;
+    
+}
+p {
+    color: blue;
+}
+
+body {
+    background-color: rgb(185, 223, 255);
+    font-family: Verdana, sans-serif;
+}
+h2, 
+h3 {
+    font-size: 1.5em;
+}
+
+li {
+    font-weight: bold;
+}
+
+* {
+    border: 2px solid red;
+}
